@@ -1,6 +1,5 @@
 selenium
 nltk
 pandas
-re
 textblob
 wordcloud
